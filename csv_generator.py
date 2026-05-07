@@ -9,7 +9,7 @@ from utils import ensure_dir
 
 # ========== НАСТРОЙКИ ДЛЯ PROXYAPI ==========
 # 1. Укажите ваш API-ключ от ProxyAPI
-PROXYAPI_KEY = "sk-lyUvwfMTdfwBA5rbiQ8Fv3Fm6HzWceuI" 
+PROXYAPI_KEY = "**********" 
 
 # 2. Укажите base_url для совместимого с OpenAI API
 #    Документация: https://api.proxyapi.ru/openai/v1 [reference:4]
