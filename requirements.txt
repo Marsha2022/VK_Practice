@@ -1,0 +1,10 @@
+aiohttp
+aiofiles
+asyncio
+ddgs
+yt-dlp
+pandas
+openai
+requests
+tqdm
+pillow
